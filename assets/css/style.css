@@ -17,5 +17,5 @@ nav a {
 
 
 footer div a {
-    color: white;
+    color: white !important;
 }
