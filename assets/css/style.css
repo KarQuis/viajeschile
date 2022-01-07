@@ -10,3 +10,12 @@ body {
 nav a {
     color: white !important; 
 }
+
+.quienes-somos i {
+    color: white;
+}
+
+
+footer div a {
+    color: white;
+}
